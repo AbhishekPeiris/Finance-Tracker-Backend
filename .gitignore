@@ -1,0 +1,49 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log*
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Database & local environment files
+*.sqlite
+*.sqlite3
+*.db
+dump.rdb
+*.pem
+
+# Compiled files
+dist/
+build/
+*.tsbuildinfo
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# macOS system files
+.DS_Store
+
+# Linux system files
+*.lock
+
+# Windows system files
+Thumbs.db
